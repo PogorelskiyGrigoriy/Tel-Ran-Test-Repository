@@ -1,5 +1,5 @@
 print("Test GitHub")
-a=5
-b=7
-c=b%a
-print(c)
+A=5
+B=7
+C=B%A
+print(C)
